@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>Procesadores</titulo>
+        <subtitulo>Historia</subtitulo>
+        <autor>Daniel Guzman</autor>
+        <logo>Logo.jpg</logo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">Diapositiva1.JPG</imaxe>
+        </paxina>
+        <paxina id="2" >
+              <tipo>12</tipo>
+              <modo>1</modo>
+              <galeria grande="" son="" texto="¿Que es?">Diapositiva2.JPG</galeria>
+              <galeria grande="" son="" texto="Funciones">Diapositiva3.JPG</galeria>
+              <galeria grande="" son="" texto="Detallado">Diapositiva4.JPG</galeria>
+              <galeria grande="" son="" texto="">Diapositiva5.JPG</galeria>
+              <galeria grande="" son="" texto="">Diapositiva6.JPG</galeria>
+              <galeria grande="" son="" texto="">Diapositiva7.JPG</galeria>
+        </paxina>
+        <paxina id="3" >
+              <tipo>3</tipo>
+              <imaxe>Diapositiva8.JPG</imaxe>
+              <filas>3</filas>
+              <columnas>3</columnas>
+              <reixa>0</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="4" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="-1">Diapositiva5.JPG</imaxe>
+        </paxina>
+    </libro>
+</lim>
